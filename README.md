@@ -11,6 +11,7 @@ By using this template, you can quickly get started with a configuration tailore
 
 Before using this template, ensure you meet the following requirements:
 - An account on the mixer named "IEM" (no password).
+- Resource Pack 4 and 5, Theme 4 imported in "Resource Manager" 
 
 ## Template Details
 
